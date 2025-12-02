@@ -41,8 +41,5 @@ Hello, my name is Gabriel, I am a cloud computing specialist at Ampli, passionat
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Go](https://img.shields.io/badge/GO-00ADD8?style=flat&logo=go&logoColor=white)
 
-### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=borgeslima&show_icons=true&theme=dark)
-
 ### 📫 How to Reach Me 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-lima-borges/)
