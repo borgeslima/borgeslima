@@ -2,7 +2,7 @@
 
 Hello, my name is Gabriel, I am a cloud computing specialist, passionate about cloud and programming. I am the father of two children, a gamer, and a pastor. I am passionate about technology and an enthusiast in emerging technologies and low hardware.
 
-- 🌩️ Postgraduate studies Solution Architect Unyleya | ☁️ Passionate about Architecture & Programming
+- 🌩️ Postgraduate studies Solution Architect PUC Minas | ☁️ Passionate about Architecture & Programming
 - 🌩️ MBA Solution Computing Cloud Unyleya | ☁️ Passionate about Cloud & Programming
 - 🌩️ Cloud Computing Specialist Ampli Pitágoras University | ☁️ Passionate about Cloud & Programming
 - 🎮 Gamer | 👨‍👧‍👦 Father of Two | ✝️ Pastor
