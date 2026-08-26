@@ -6,17 +6,7 @@ Hello, my name is Gabriel, I am a cloud computing specialist at Ampli, passionat
 - 🎮 Gamer | 👨‍👧‍👦 Father of Two | ✝️ Pastor
 - 🚀 Tech Enthusiast | 🔌 Low-Level Hardware & Emerging Tech Explorer
 
-## 🚀 AWS Certified Solutions Architect - Associate
-
-
-<div align="center">
-  <img width="300" src="https://github.com/user-attachments/assets/6ed241b7-b3e6-4779-bfd9-d693ff337e64" alt="AWS Certified Solutions Architect - Associate Badge" />
-  <br/>
-  <a href="https://www.credly.com/badges/3cb42cad-3ae2-48c1-880c-2ad17774a8ad" target="_blank">
-    <img src="https://img.shields.io/badge/Verified-FF6B00?style=flat&logo=credly&logoColor=white" alt="Verify on Credly" />
-  </a>
-</div>
-
+## 🚀 AWS Certified Solutions Architect
 
 ## 👨‍💻 About Me
 - ☁️ **Cloud Computing Graduate** (@Ampli)  
