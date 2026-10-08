@@ -34,4 +34,4 @@ Hello, my name is Gabriel, I am a cloud computing specialist, passionate about c
 ![Go](https://img.shields.io/badge/GO-00ADD8?style=flat&logo=go&logoColor=white)
 
 ### 📫 How to Reach Me 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-lima-borges/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-borges-lima/)
